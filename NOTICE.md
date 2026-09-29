@@ -18,9 +18,8 @@ Copyright (c) 2026 赵兴华 / Steven Zhao·China。保留所有权利。
                         (not a registered legal entity; no trademark registered)
 生产参考部署 (production reference, self-reported) : MedXpert
                     ← 非认证、非背书、非监管认可（not a certification or endorsement）
-代码许可 (code license) : uibc-core = Apache-2.0 (see repo LICENSE)
-                    本文本与理论表述不在 Apache-2.0 覆盖范围内
-引用格式 (cite as)      : uibc-core/CITATION.cff · concept DOI 10.5281/zenodo.22821834
-首次公开锚 (first public): 2026-09-17 13:31:45 UTC (commit cb6f11b)
-                    外锚 (external anchor): Sigstore Rekor logIndex 2883389783
+代码许可 (code license) : 本仓无独立代码许可；完整理论仓见 zhaoxinghua09-cell/lgd-theory
+                    本文本与理论表述**保留所有权利**，不在任何代码许可覆盖范围内
+引用格式 (cite as)      : 本仓无独立 DOI —— 请引用完整理论仓
+                      zhaoxinghua09-cell/lgd-theory · concept DOI 10.5281/zenodo.22456647
 ```
