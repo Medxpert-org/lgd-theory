@@ -1,6 +1,8 @@
-# LGD 理论仓（组织镜像）
+> ⚠️ **本仓为组织侧镜像（Mirror）** —— 内容真源与权威版本在 **[zhaoxinghua09-cell/lgd-theory](https://github.com/zhaoxinghua09-cell/lgd-theory)**。两仓许可与内容保持一致；如有差异，以真源仓为准。
+>
+> # LGD 理论仓（组织镜像）
 
-> LGD（Ling Gong Dao / 凡自治之道）全程治理论 — Registry · Evidence · Gates（有籍 · 有证 · 有门禁）。
+> LGD（全程治理论 / Lifecycle Governance Doctrine）— Registry · Evidence · Gates（有籍 · 有证 · 有门禁）。
 
 **内容真源**：[zhaoxinghua09-cell/lgd-theory](https://github.com/zhaoxinghua09-cell/lgd-theory)（本仓为组织侧镜像，两仓许可与内容保持一致）。
 
@@ -8,7 +10,7 @@
 
 ```
 © 2026 赵兴华 / Steven Zhao·China (ORCID 0009-0001-0512-1237). All rights reserved.
-理论署名 (attribution) : LGD（Ling Gong Dao / 凡自治之道）— SynomosAI initiative
+理论署名 (attribution) : LGD（全程治理论 / Lifecycle Governance Doctrine）— SynomosAI initiative
 名称状态 (name status)  : "SynomosAI" / "MedXpert" — 未申请实体注册、未申请商标注册
                         (not a registered legal entity; no trademark registered)
 代码许可 (code license) : 本仓无独立代码许可；完整理论仓见 zhaoxinghua09-cell/lgd-theory
